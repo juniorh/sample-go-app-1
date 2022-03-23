@@ -1,8 +1,8 @@
 package main
 
 import "fmt"
-import "github.com/juniorh/app1/p1"  // PATH should match with module name in go.mod
-import "github.com/juniorh/app1/p2"
+import "github.com/juniorh/sample-go-app-1/p1"  // PATH should match with module name in go.mod
+import "github.com/juniorh/sample-go-app-1/p2"
 //import "app1/p1"
 //import "app1/p2"
 
