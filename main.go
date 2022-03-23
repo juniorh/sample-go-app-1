@@ -13,4 +13,5 @@ func main() {
 	p1.Sapi()
 	//p1.cacing()
 	p2.Bebek()
+	fmt.Println("End Script!")
 }
