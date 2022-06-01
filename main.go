@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "github.com/juniorh/sample-go-app-1/p1"  // PATH should match with module name in go.mod
+import "github.com/juniorh/sample-go-app-1/p1"  // PATH should match with module name in go.mod; if the PATH same with module name, it doesn't need to download the pkg to /go/pkg/*
 import "github.com/juniorh/sample-go-app-1/p2"
 //import "app1/p1"
 //import "app1/p2"
